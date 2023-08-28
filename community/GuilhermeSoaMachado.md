@@ -1,1 +1,4 @@
-# Octoeli
+Sou Guilherme Machado sou formado na área da gestão de tecnologia, estagiei por um ano e seis meses, no setor de turismo da Prefeitura Municipal de Rosário do Sul – RS, onde permaneci até prestar serviço militar obrigatório.
+Fui militar temporário do Exército, desde 2012. Em 01 de março de 2020, completei o tempo máximo de serviço militar temporário. Trabalhei no setor de almoxarifado há quase oito anos, onde desempenhei as seguintes atribuições, além das missões diárias: controle de entrada e saída de materiais; cadastro de materiais no sistema informatizado; pedidos de materiais no sistema informatizado da organização; uso diário do programa Excel, inclusive, desenvolvi planilhas para o controle de estoque, bem como uma planilha para o controle de pedidos de medicamentos do setor de farmácia da organização militar. 
+
+Busco nesse curso da DIO me aperfeiçoar e poder criar ferramentas a fim de melhorar o desempenho do trabalho na empresa. Trabalho comprometido com as tarefas e tenho espírito de equipe. Obrigado pela oportunidade!
